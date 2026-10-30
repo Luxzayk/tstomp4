@@ -14,7 +14,7 @@ la reproducción progresiva de los archivos MP4.
 
 Para comprobar que FFmpeg está disponible, ejecuta:
 
-```powershellll
+```powershelllldgdfgdfg
 ffmpeg -version
 ```
 
