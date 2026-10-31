@@ -1,4 +1,4 @@
-# Convertir TS a MP4
+# Convertir TS a MP4 video
 
 Script de Python para convertir por lotes archivos de video `.ts` a `.mp4`
 usando [FFmpeg](https://ffmpeg.org/).
