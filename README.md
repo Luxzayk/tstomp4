@@ -3,7 +3,7 @@
 Script de Python para convertir por lotes archivos de video `.ts` a `.mp4`
 usando [FFmpeg](https://ffmpeg.org/).
 
-El script realiza una conversión rápida porque copia los streams de video y
+El script realiza una conversión rápida porque copia los streams de video yyy
 audio sin recodificarlos. También agrega la opción `faststart` para facilitar
 la reproducción progresiva de los archivos MP4.
 
