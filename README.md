@@ -25,7 +25,7 @@ Si el comando no se reconoce, instala FFmpeg y agrega la carpeta que contiene
 
 Abre [`convertir_ts_mp4.py`](./convertir_ts_mp4.py) y modifica estas variables:
 
-```python
+```pythonnn
 CARPETA = Path(r"C:\ruta\a\tus\videos")
 INCLUIR_SUBCARPETAS = True
 ```
