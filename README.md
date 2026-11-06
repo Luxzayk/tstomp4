@@ -7,7 +7,7 @@ El script realiza una conversión rápida porque copia los streams de video yyy
 audio sin recodificarlos. También agrega la opción `faststart` para facilitarrr
 la reproducción progresiva de los archivos MP4.
 
-## Requisitossss
+## Requisitossssaaaa
 
 - Python 3.8 o superior.
 - FFmpeg instalado y disponible en el `PATH` del sistema.
